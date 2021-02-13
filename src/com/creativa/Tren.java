@@ -49,6 +49,12 @@ public class Tren {
 	public void setVelocidadMaxima(int velocidadMaxima) {
 		this.velocidadMaxima = velocidadMaxima;
 	}
+	
+	public void pitar() {}
+	
+	public void aumentarVelocidad() {}
+	
+	public void cerrarPuertas() {}
 
 	@Override
 	public String toString() {

@@ -49,6 +49,12 @@ public class Carro {
 	public void setColor(String color) {
 		this.color = color;
 	}
+	
+	public void encender() {}
+	
+	public void frenar() {}
+	
+	public void encenderLuces() {}
 
 	@Override
 	public String toString() {

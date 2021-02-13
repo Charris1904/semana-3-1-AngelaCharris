@@ -56,7 +56,6 @@ public class Bicicleta {
 	
 	public void girarLadoIzquierdo() {}
 	
-	
 	@Override
 	public String toString() {
 		return "Bicicleta [color=" + color + ", tamano=" + tamano + ", tipo=" + tipo + ", precio=" + precio + "]";
